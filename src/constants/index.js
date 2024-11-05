@@ -28,7 +28,7 @@ export const navLinks = [
       position: 'Marketing Director at GreenLeaf',
       img: 'assets/review1.png',
       review:
-        'Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
+        'Working with Keroles was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
     },
     {
       id: 2,
@@ -36,7 +36,7 @@ export const navLinks = [
       position: 'Founder of TechGear Shop',
       img: 'assets/review2.png',
       review:
-        'Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
+        'Keroles’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
     },
     {
       id: 3,
@@ -44,7 +44,7 @@ export const navLinks = [
       position: 'Project Manager at UrbanTech ',
       img: 'assets/review3.png',
       review:
-        'I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
+        'I can’t say enough good things about Keroles. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
     },
     {
       id: 4,
@@ -52,17 +52,17 @@ export const navLinks = [
       position: 'CEO of BrightStar Enterprises',
       img: 'assets/review4.png',
       review:
-        'Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
+        'Keroles was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
     },
   ];
   
   export const myProjects = [
     {
-      title: 'Podcastr - AI Podcast Platform',
-      desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
+      title: 'Movies app',
+      desc: 'This Movies app is a visually engaging, interactive web application developed with React.js, styled with TailwindCSS, Shadcn/UI, and Material UI (MUI) components for creating polished UI elements like cards, buttons, carousels, and sliders. It features a dynamic carousel, responsive slider, movies wall display, light/dark mode toggle, and loading animations to enhance the user experience.',
       subdesc:
-        'Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.',
-      href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+        'Built with React.js for handling the user interface, styled with TailwindCSS , shadcn/ui and Mui components for beautiful components such as cards , button ,carousel and slider.',
+      href: 'https://movies-kn.vercel.app/',
       texture: '/textures/project/project1.mp4',
       logo: '/assets/project-logo1.png',
       logoStyle: {
@@ -84,22 +84,22 @@ export const navLinks = [
         },
         {
           id: 3,
-          name: 'TypeScript',
-          path: '/assets/typescript.png',
+          name: 'JavaScript',
+          path: '/assets/javascript.png',
         },
         {
           id: 4,
-          name: 'Framer Motion',
-          path: '/assets/framer.png',
+          name: 'Redux Toolkit',
+          path: '/assets/redux.png',
         },
       ],
     },
     {
-      title: 'LiveDoc - Real-Time Google Docs Clone',
-      desc: 'LiveDoc is a powerful collaborative app that elevates the capabilities of real-time document editing. As an enhanced version of Google Docs, It supports millions of collaborators simultaneously, ensuring that every change is captured instantly and accurately.',
+      title: 'Little Lemon -Food Viewing Environment',
+      desc: 'Commitment to Quality: Ensured a seamless user experience through thorough testing and refinement.Perseverance: Overcame technical challenges by researching and debugging issues, refining code until functionality was achieved.Dynamic Templates: Adapted templates based on user insights, demonstrating flexibility in design.',
       subdesc:
-        'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-      href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+        'This project reflects my technical skills along with a commitment to quality, perseverance in problem-solving, and openness to alternative approaches, by using Django and Mysql.',
+      href: 'https://github.com/keroles-naeem/Little_Lemon',
       texture: '/textures/project/project2.mp4',
       logo: '/assets/project-logo2.png',
       logoStyle: {
@@ -111,8 +111,8 @@ export const navLinks = [
       tags: [
         {
           id: 1,
-          name: 'React.js',
-          path: '/assets/react.svg',
+          name: 'Django',
+          path: '/assets/django.png',
         },
         {
           id: 2,
@@ -121,13 +121,13 @@ export const navLinks = [
         },
         {
           id: 3,
-          name: 'TypeScript',
-          path: '/assets/typescript.png',
+          name: 'MySQL',
+          path: '/assets/mysql.png',
         },
         {
           id: 4,
-          name: 'Framer Motion',
-          path: '/assets/framer.png',
+          name: 'Python',
+          path: '/assets/python.png',
         },
       ],
     },
@@ -260,29 +260,29 @@ export const navLinks = [
   export const workExperiences = [
     {
       id: 1,
-      name: 'Framer',
-      pos: 'Lead Web Developer',
+      name: 'DJango',
+      pos: 'Full Stack Development (Meta / Coursera)',
       duration: '2022 - Present',
-      title: "Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
-      icon: '/assets/framer.svg',
+      title: "Following my completion of military service, I acquired full-stack development skills through Coursera, utilizing courses provided by Meta.Additionally, I have created various projects as a freelancer, applying my knowledge to deliver effective web solutions.",
+      icon: '/assets/django-s.svg',
       animation: 'victory',
     },
     {
       id: 2,
-      name: 'Figma',
+      name: 'MERN',
       pos: 'Web Developer',
       duration: '2020 - 2022',
-      title: "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
-      icon: '/assets/figma.svg',
+      title: "I learned full-stack development using the MERN stack (MongoDB, Express.js, React, Node.js) in Angela Yu's Udemy course. It equipped me with skills to build responsive web applications, manage databases, and create RESTful APIs, enhancing my ability to develop modern web solutions effectively.",
+      icon: '/assets/nodejs.svg',
       animation: 'clapping',
     },
     {
       id: 3,
-      name: 'Notion',
-      pos: 'Junior Web Developer',
+      name: 'Orange',
+      pos: 'Technical Support',
       duration: '2019 - 2020',
-      title: "Notion helps me keep my projects organized. I use it for project management, task tracking, and as a central hub for documentation, ensuring that everything from design notes to.",
-      icon: '/assets/notion.svg',
+      title: "Orange helps me keep my Time organized , I Provided technical assistance for Linux and Windows operating systems and Resolved complex technical issues, enhancing customer satisfaction.",
+      icon: '/assets/orange.png',
       animation: 'salute',
     },
   ];

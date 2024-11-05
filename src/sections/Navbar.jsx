@@ -1,5 +1,5 @@
 import  {useState} from 'react';
-import { navLinks } from '../costants/index.js';
+import { navLinks } from '../constants/index.js';
 const NavItems = () =>{return (
   <ul className="nav-ul">
     {navLinks.map(({id ,href, name}) => (
