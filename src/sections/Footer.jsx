@@ -8,7 +8,7 @@ const Footer = () => {
       </div>
 
       <div className="flex gap-3">
-        <a href="https://github.com/keroles-naeem"><div className="social-icon" >
+        <a href="https://github.com/keroles-naeem" className="w-fit"><div className="social-icon" >
           <img src="/assets/github.svg" alt="github"  className="w-1/2 h-1/2"  />
         </div>
         </a>

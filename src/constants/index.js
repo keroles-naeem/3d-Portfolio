@@ -132,11 +132,11 @@ export const navLinks = [
       ],
     },
     {
-      title: 'CarePulse - Health Management System',
-      desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
+      title: 'Simplefolio - Modern UI Design',
+      desc: 'Professional way to showcase your work ,Increases your visibility and online presence ,Shows you’re more than just a resume',
       subdesc:
-        'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-      href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+        'Modern UI Design + Reveal Animations,One Page Layout, Styled with Bootstrap v4.3 + Custom SCSS, Fully Responsive, Valid HTML5 & CSS3, Optimized with Parcel, Well organized documentation',
+      href: 'https://harmonious-daffodil-6c0b94.netlify.app/',
       texture: '/textures/project/project3.mp4',
       logo: '/assets/project-logo3.png',
       logoStyle: {
@@ -160,8 +160,8 @@ export const navLinks = [
         },
         {
           id: 3,
-          name: 'TypeScript',
-          path: '/assets/typescript.png',
+          name: 'JavaScript',
+          path: '/assets/javascript.png',
         },
         {
           id: 4,
@@ -171,11 +171,11 @@ export const navLinks = [
       ],
     },
     {
-      title: 'Horizon - Online Banking Platform',
-      desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
+      title: 'WonderWorker -  Product and inventory System',
+      desc: 'Wonder-Worker is a comprehensive financial management platform that offers users a centralized dashboard for managing finances, connecting multiple products, monitoring inventory, and showcasing financial data. ',
       subdesc:
-        'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
-      href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+        'Built with Python, Django and Reast API, WonderWorker ensures a smooth and secure financial experience, tailored to meet the needs of modern consumers.',
+      href: 'https://github.com/keroles-naeem/Wonder_Worker',
       texture: '/textures/project/project4.mp4',
       logo: '/assets/project-logo4.png',
       logoStyle: {
@@ -187,8 +187,8 @@ export const navLinks = [
       tags: [
         {
           id: 1,
-          name: 'React.js',
-          path: '/assets/react.svg',
+          name: 'Django',
+          path: '/assets/django.png',
         },
         {
           id: 2,
@@ -197,22 +197,22 @@ export const navLinks = [
         },
         {
           id: 3,
-          name: 'TypeScript',
-          path: '/assets/typescript.png',
+          name: 'Python',
+          path: '/assets/python.png',
         },
         {
           id: 4,
-          name: 'Framer Motion',
-          path: '/assets/framer.png',
+          name: 'MySQL',
+          path: '/assets/mysql.png',
         },
       ],
     },
     {
-      title: 'Imaginify - AI Photo Manipulation App',
-      desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
+      title: 'Short-Games  ',
+      desc: 'Simon Game, Drum Game, and Dice Game. Whether playing solo or competing with friends, users can enjoy these interactive games that provide both fun and challenge.',
       subdesc:
-        'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
-      href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+        'Built with  JavaScript, HTML5 and CSS3, Short-Games combines  three Games  with a good user experience. Simon-Game , Drum-Game and Dice-Game You can play these games by yourself or with your friends.',
+      href: 'https://keroles-naeem.github.io/Short-Games/',
       texture: '/textures/project/project5.mp4',
       logo: '/assets/project-logo5.png',
       logoStyle: {
@@ -224,23 +224,23 @@ export const navLinks = [
       tags: [
         {
           id: 1,
-          name: 'React.js',
-          path: '/assets/react.svg',
+          name: 'JavaScript',
+          path: '/assets/javascript.png',
         },
         {
           id: 2,
-          name: 'TailwindCSS',
-          path: 'assets/tailwindcss.png',
+          name: 'HTML5',
+          path: 'assets/html5.svg',
         },
         {
           id: 3,
-          name: 'TypeScript',
-          path: '/assets/typescript.png',
+          name: 'CSS3',
+          path: '/assets/css3.svg',
         },
         {
           id: 4,
-          name: 'Framer Motion',
-          path: '/assets/framer.png',
+          name: 'Bootstrap',
+          path: '/assets/boostrap.svg',
         },
       ],
     },
